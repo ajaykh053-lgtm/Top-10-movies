@@ -1,0 +1,10 @@
+.env
+.venv
+.vscode
+.flight_cache.sqlite
+chrome_profile/
+aaaaaaaaa/
+Photos/
+instance/
+testfile/
+files/
